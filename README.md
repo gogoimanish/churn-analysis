@@ -154,8 +154,3 @@ Customer-Churn-Analysis/
 
 ---
 
-## 👨‍💻 Author
-
-**Yash Ravangave**
-
-If you found this project helpful, consider giving the repository a ⭐.
